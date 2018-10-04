@@ -1,0 +1,25 @@
+.logotienda img{
+	/*border: 2spx dotted orange;*/
+	border-radius: 60%;
+}
+	
+.tienda{
+	font-family: 'Colonna MT', cursive;
+}
+	
+.cantidad{
+	width: 150px;
+}
+	
+.carrito{
+	font-size: 35px;
+}
+	
+	
+.mr{
+  width:100px;
+  float:left;
+}
+	
+
+
